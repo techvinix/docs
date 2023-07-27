@@ -1,0 +1,52 @@
+Good Morning, Roman. I wanted to discuss with you some aspects of my work and interests. Currently, I'm a Solution Architect for the SmartFactory, MES & ISC domain project within Jiten Vithlani and Chuck's Organisation.
+
+I follow the latest advancements in AI space. Recently, during Sheela's townhall, she mentioned the growth opportunities associated with Generative AI, which has the potential to transform every business. Additionally, you mentioned roadmap to use GenAI in Honeywell.  I find this prospect very exciting and would love to contribute to Honeywell's success by joining your organization.
+
+To stay updated, I actively participate in All Hands meetings and Town Halls. I strive to align my work with the vision you have set for the company.
+
+Today, I plan to demonstrate actual demos rather than discussing AI theories. I value your perspective on how we can scale these demonstrations and make them applicable on a larger scale.
+
+I am using Github Copilot to automatically generate code based on comments. Furthermore, I utilize Copilot Labs for various tasks such as code explanations, translation into different programming languages, bug fixes, improving code readability, and generating code test cases.
+
+I have also created a demo that showcases the ability to chat or interact with different types of documents using LLM. I have used LLM with Langchain framework, allowing us to create applications. With Langchain, we can connect to multiple data sources,APIs and provide memory and vector databases to store embeddings.
+
+Lastly, I have compiled a list of best practices in Prompt engineering and techniques, including examples specific to Honeywell.
+
+By integrating project plans with LLM-based applications like ChatGPT or ThoughtSpot, we can query the data using natural language SQL/code. GenAI can generate risk profiles and recommend different schedules to mitigate those risks. This approach can be scaled to thousands of project plans using commercial AzureOpenAI APIs. By mitigating risks, we can improve delivery and margins.
+
+Additionally, I am training GenAI to generate project schedules that include specific work packages based on regulatory requirements. GenAI can also identify potential risks associated with a project.
+
+
+I hope this gives you a comprehensive understanding of my interests. I am eager to explore how we can leverage these technologies to drive innovation within Honeywell.
+=======================================================
+I'm following what is happening in AI space closely. As Sheela mentioned in her townhall about Growth opportunity with GenerativeAI which has potential to transform every business 
+and as you mentioned about how you're planning to use GenAI in R&D space, I'm excited to join your organisation where I can contribute to honeywell success.
+I'm following queues from All Hands, Town Halls and building what he is envisioning
+
+my plan for today is to walk you through actual demo's v/s talking all theory.. and get your perspective on how we can make these large scale or what I can improve.
+
+I'm using Github copilot to generate automated code based on comments and using copilot labs to peform tasks like explain the code, translation into different programming langugage, fix the code, bugs, make it more readable etc and generating code test cases.
+
+I also created demo to chat/talk with different types of documents with LLM. This is the architecute and here is the basic web application.
+I've used LLM with Langchain to create applications, using langchain we can connect to multiple datasource and provide memory and vector database to store embeddings.
+
+Finally I've listed all the best practics of Prompt engineering with Honeywell examples.
+
+
+
+I've 100+ dummy project plans in csv format, once connect this to LLM based apps like ChatGPT or ThoughtSpot, we can query the data using
+natural langauge with specific code or sql and Generative AI can generate risk profile and recommed different schedules/timeline to mitigate those risks.
+This example can be scaled to thousands of projects plan with commercial AzureOpenAI APIs. Once mitigated risks then it will impply better delivery and margins.
+
+
+
+Github Copilot &
+Github Copilot Labs
+
+
+GenAI will generate draft of requirements based on high-level system specifications and best practices derived from successful projects. which can be reviewed and baselined as an entry point for standard or agile design and developement process.
+
+Train the GenAI to generate project schedules with specific work packages from regulatory requirements. It can also raise risks for the project.
+
+GenAi can help Developer or Adminstrators to generate automated scipts/code based on NLP comments and can also provide semantic based workflow automation.
+==========================================================================
